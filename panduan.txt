@@ -1,0 +1,2 @@
+Jalankan perintah ini di terminal untuk mengaktifkan website di localhost:
+(kab) C:\Users\wis\Documents\GitHub\kabupaten>mkdocs serve
